@@ -1,1 +1,4 @@
-This is the first line of my second file. Git is so fun. 
+This is the first line of my second file. Git is so fun.
+
+Stuff stuff stuff
+Added stuff as user B.  
