@@ -3,3 +3,6 @@ This is my test code for git.
 This is my new line of code. dig!
 
 New stuff fourth line after cloning
+
+Yet another line cause we prcticin'
+
